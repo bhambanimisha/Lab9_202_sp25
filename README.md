@@ -1,7 +1,3 @@
-Here’s a clean and concise `README.md` you can include for Lab 9:
-
----
-
 # Lab 9: Graphs
 
 Welcome to **Lab 9 on Graphs**!
